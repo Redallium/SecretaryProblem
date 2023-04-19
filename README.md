@@ -1,5 +1,5 @@
 # SecretaryProblem
-The Secretary Problem is a classic problem in decision theory that involves selecting the best candidate from a pool of applicants who are interviewed sequentially.
+The Secretary Problem is a classic problem in decision theory that involves selecting the best candidate from a pool of applicants who are interviewed sequentially.\n
 A graph reflecting the probability of choosing the best candidate at random and using the optimal strategy (Obtained Theoretically):
 ![Theoretical Approach](https://github.com/Redallium/SecretaryProblem/blob/main/Plots/Theoretical.png)
 
